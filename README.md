@@ -8,3 +8,8 @@
 
 
 
+Check out the screenshots below to see the word guess game at work!
+![node index.js](ScreenShot1_WordGuess.png/)
+![node index.js](ScreenShot2_WordGuess.png/)
+
+
